@@ -8,6 +8,6 @@ int main(){
         std::cout << buffer << std::endl;
     }
 	//first day
-	read_file();
+	day1part1();
 
 }
